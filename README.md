@@ -26,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License 
 
 [MIT]()
+
+[PatikaDev](www.patika.dev)
